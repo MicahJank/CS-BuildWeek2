@@ -1,0 +1,47 @@
+Tips for interviewing
+
+Do companies actually want to hire a lambda grad?
+
+Drive to learn
+ability to think critically
+EMPATHY - understand what it is like to be a user, willing to communicate
+
+Behavioral feedback
+1 - RESEARCH THE JOB
+    - look into what they do, what they are looking for
+    - know what the company does
+    - go to the company website
+    - read the job description
+    - read the mission statement
+    - stalk your interviewer
+    - have questions to ask
+    - play to the company values
+
+2 -  DETAIL ORIENTED
+    - Dont make silly mistakes
+    - double check everything
+    - sticky note with the interviewer name
+    - lack of detail = lack of professionalism
+    - 
+
+3 - Communication skills 
+    - Be excited to be there
+    - Ask questions
+    - be able to answer "why" are you interested in the position
+    - be intentional about conveying your interest
+    - dont be too casual, ie "thats awesome man" "damn" "oh man"
+    - ask good questions!
+    - 
+
+
+Technical Interview feedback
+need to get above 80% on  technical assessment
+
+- Dont lie on the resume
+- dont just say "i dont know", that should be the start of the sentence, turn it into a questions- "i dont know, but i would love to learn, could you tell me a bit more about it?"
+- know the projects that you have on your resume
+- make sure your portfolios are working and the projects all work, they shouldnt be clunky and demos not working
+- Know the problem that you solved and what you LEARNED from it
+- make sure you understand how things work and not just be able to do it - why use this technology over this other technology
+- make sure you can talk about HOW you would build the feature
+- READ THE INSTRUCTIONS - dont just jump into coding

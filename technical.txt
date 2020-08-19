@@ -1,0 +1,65 @@
+UPER
+- Why use UPER?
+    - uper will show your thought process
+    - it will help your communication skills
+    - also helps keep you calm in interviews 
+- interviewers arent JUST looking for an optimal solution
+- they also look for your thought process, testing, spotting bugs, communication skills, coding speed
+
+- Make sure you UNDERSTAND the question/what is being asked of you
+- Know the inputs and outputs
+
+- Create test-cases!
+- the point of the interview is to convince the interviewer your answer is correct
+
+- Plan
+- this step should take the most time
+- what patterns have you seen beore that you can apply to the problem?
+- what techniques could i use? what data structures can i use?
+- Can i find a better solution?
+- what helper methods might i need?
+- do NOT proceed to the next step unless you know what you're going to code
+
+Execute
+- code it uo
+- if you prepare properly this should be the easiest fastest step
+- watch out for bugs
+
+Review
+- Give your code a pass through and correct any bugs / any syntax or a flaw in algorithim
+- make sure you dont cause regressions when fixing your bugs
+- test your code with the test cases you made in the understand step
+- state your runtime and space complexity
+
+
+BINARY SEARCH
+- a key to a binary search is that the data must be SORTED
+- halve the search space on each iteration for sorted collections/ranges for O(logn) performance
+- take the middle element of the current search space
+    - if thats the target then your done
+    - if its greater than the target go left
+    - else its less than the target so go right
+
+Things to know
+- its very useful for sorted collections like arrays and strings
+- key word is sorted/ranges, if you see that word think binary search
+- can be implemented iteratively/recursively
+    - do what is comfortable but have an understanding of how to do it the other way
+
+
+When planning dont do too much psuedo code, just note down your thoughts
+
+- a binary search solution almost always should have a min and a max
+- remember in binary search you need to find the midpoint of your range
+- 
+
+BINARY TREE
+- comprised of nodes
+- each node can have [0,2] children
+
+
+Tell me about a time where you and your teammates did not agree?
+-  describe TidyHive a home organization app like a glorified todo app
+- me and a teammate didn't agree on how to implement a certain feature
+- i felt like i made some fair points about what we should do but they also made some fair points
+- in the end i decided to just implement it their way to avoid more conflict and i ended up really liking the way it turned out 
