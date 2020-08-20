@@ -47,19 +47,49 @@
  -
 
 8. Why should we hire you?
- - 
+ - what this question actually means is "why are you the best fit for this position?"
+ - my answer needs to be concise and sales pitchy
+ - an answer to this question requires RESEARCH
+ - understand what the job requirements are
+ - make a list of requirements for the position, including personality traits they are looking for and find qualities i have that overlap
+ - in my response i should talk about what requirements the job listing had and how my own skills match it
+ - i need to show how i will add value
+ - keep the response short and focused
 
 9. What's your dream job?
+ - the interviewer asks this question because they want to assess your motivation for the job you are applying for
+ - i should try to reference at least some elements of the job at hand
+ - the best way to answer is to brainstorm what it is about the job that is appealing to me
+ - dont mention specific job titles
+ - dont mention the job i am applying for
 
 10. Can you explain why you changed career paths?
+ - 
 
 11. How do you deal with pressure or stressful situations?
+ - the interviewer wants to know how i handle job related stress also what i do specifically in stressful situations at work
+ - employers want candidates who they know can deal with a wide range of stressful situations
+ - it is best to give specific examples of how i have handled stress in the past, sprint challenges at lambda school would be a good example since those can be stressful
+ - consider mentioning how stress can help motivate me to get projects completed - labs at lambda school is a good example
+ - the important thing is to show the interviewer how i manage stress
+ - focus on how stress has made me more productive
+ - dont talk about how stressed out i was, i need to emphasize how i took the stress and put it into positive action
 
 12. What would your first 30, 60, or 90 days look like in this role?
+ - i should frame it in a way where i want to get experience and learn from fellow colleagues
+ - i need to try to be as specific as possible
+ - what examples do i have that i could relate to how i adjusted quickly to a task or previous job
+ - i should be positive
+ - i could talk about the fast paced and changing atmosphere of lambda school and how it required me to adapt quickly to change
+ - i should show i have done some research on the company and talk about specific tasks or projects i would like to be a part of
 
 13. What are your salary requirements?
+ - 
 
 14. Give an example of a goal you reached and tell me how you achieved it
+ - the interviewer wants to know whether you can achieve goals that you set for yourself
+ - i could talk about how i set the goal of doing at least 1 code challenge every day
+ - 
 
 15. Have you ever made a mistake? How did you handle it?
 
