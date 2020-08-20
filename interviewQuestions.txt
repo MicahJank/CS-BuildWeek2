@@ -25,16 +25,29 @@
  - try to put a positive spin on your weaknesses by showing how you are actively trying to improve that weakness
  - dont share a universally diqualifying answer like how i am always late
  - dont mention weaknesses that would make me unfit for the position
- 
+
 4. Tell me about a group project that you are passionate about?
+ - 
 
 5. Where do you see yourself in 3-5 years?
+ - this question is asked because because the interviewer wants to know if your career goals align with the company's
+ - even if i plan on leaving quickly i should keep that information to myself
+ - research a reasonable career path that would flow from the position that i am applying for 
+ - if it is a junior software engineering job it would make sense that i would want to eventually become a senior software engineer for example
+ - discuss my interest in the job i am applying for, i should want to master my current position before moving on
 
 6. How would your co-workers describe you?
+ - this question is asked to get a sense of how you view yourself, to compare your self assessment to how your references describe you, and to see how good your soft skills are
+ - i should focus on my qualities that would make me a good fit for the job
+ - look at my linkedin recommendations to see what people say about me
+ - after seeing what people say about me try to find overlap between the good things they say and what the job description is looking for - these are the points i should build up
+ - 
 
 7. Tell me about a time where you and your teammates did not agree?
+ -
 
 8. Why should we hire you?
+ - 
 
 9. What's your dream job?
 
