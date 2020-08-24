@@ -100,14 +100,45 @@
    and i learned to take the documentation seriously 
  - talk about how we were having issues with git and ended up collectively just deciding that we should use a dev branch
    but we should have just struggled together until we figured out a solution that didnt go against the documentation
+ - Before the interview, look over the job listing, and try to think of a mistake you have made in the past 
+   that is not too closely related to the requirements of the job.
+ - Be sure to think carefully about the positive spin ill put on the mistake. What did i learn from 
+   my error and how will it make me an ideal candidate for this position?
 
 16. When you worked on multiple projects how did you prioritize?
+ - this question is asked to see if i know the difference between urgent and important
+ - Explain factors that go into giving priority.
+ - Explain how you incorporate those factors into your decision.
+ - talk about trello and how i use it to easily separate tasks for projects into quick task to accomplish
+ - helps me to see what needs to be done and what i have already accomplished
+ - breaking things down into smaller subtasks helps me to see more clearly what needs to be prioritized
 
 17. Have you had to convince a team to utilize a tool/language they weren't thrilled about?
 How did you do it?
+ - the interviewer wants to know that i can be persuasive
+ - talk about how i had to convince someone to use version control/github rather than just saving their work locally
+ - i highlighted all the benefits of using github like collaboration, the ease in which you can just push your files from
+   your IDE and also its ability to keep track of everything you have done through its commit history and how that helps
+   you when you want to revert back to an older version if needed.
+- the person was not comfortable with it because they didnt like using the terminal
+- i was able to convince them by showing them how easy it is to get starting with git commands and now they love it
+
 18. Have you ever had a project that had to change drastically while it was in progress?
 Why? How did you do it?
+ - the interviewer wants to see how I adapt to changing circumstances/difficulty
+ - talk about my labs project and how we employed AGILE methodology to overcome this
+ - talk about how we wanted to use graphql on our backend initially
+ - once we started our work we realized that it was unnecessary and the benefits to using it didnt justify the whole team
+   having to learn a new technology
+ - AGILE helped in overcoming this because of how often we reviewed our work together as a team and talked about what was helping vs not helping us reach our goals
 
 19. Tell me about a major setback you've had. How did you deal with it?
+ - Interviewers want to learn how you maintain your composure, attitude, energy, and focus when you aren't successful.
+ - talk about during a buildweek i needed to implement a form and authorization from the backend, which i had never done before
+ - plus we were already crunched for time as it was so i was pretty stressed about it
+ - i took the time to look into how to do authorization and spent a few hours looking up and reading info until something
+ - just clicked and i was able to implement it
 
-20. Describe the internet to someone who just woke up from a 30-year coma. (Brain teaser
+20. Describe the internet to someone who just woke up from a 30-year coma.
+ - think of the internet as a giant public library of information that you can access anywhere through your device,
+   either a computer or your phone
