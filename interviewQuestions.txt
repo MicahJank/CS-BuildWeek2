@@ -92,6 +92,14 @@
  - 
 
 15. Have you ever made a mistake? How did you handle it? 
+ - this question is asked to see how i handle challenges
+ - my answer needs to be honest but i also should choose to highlight a mistake that is a serious character flaw
+ - try to make it a mistake that i made as a team with others
+ - an example i can think of is when all of us on Tidy Hive didnt listen to the documentation about how we were supposed
+   to not create an intermediary branch before merging to the main branch maybe talk about how i was uncomfortable about it
+   and i learned to take the documentation seriously 
+ - talk about how we were having issues with git and ended up collectively just deciding that we should use a dev branch
+   but we should have just struggled together until we figured out a solution that didnt go against the documentation
 
 16. When you worked on multiple projects how did you prioritize?
 
