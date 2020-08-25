@@ -96,10 +96,12 @@ ________________________________________________________________________________
    these are the points i should build up
 STAR
 Setting/Task
+- mention my TLing at lambda school
 - ive been described as patient, dedicated and always willing to help
 Action
 - fellow students have commended me for my willingness to stay on a zoom call for hours just pair programming together
 Result
+- 
 
 ______________________________________________________________________________________________________________________________________
 7. Tell me about a time where you and your teammates did not agree?
@@ -123,12 +125,17 @@ ________________________________________________________________________________
  - keep the response short and focused
 STAR
 Setting/Task
-- in your job description you say you are looking for someone with frontend experience in react who can also understand backend code
+- maybe talk about how i want to be a part of the team
+- maybe bring up a specific example of a backend project
+- in your job description you say you are looking for someone with backend experience
+- and i have actually worked on numerous backend applications using sqlite, postgres and node
+- i also have a lot of experience with front end work as well as what goes into integrating a backend with a front end 
 Action
 - ive worked with react extensivley, built numerous projects using it as a framework and have built my own backend servers that have 
   intergrated with my front end react app
 Result
-- because of this combination of experience i think i would make a great fit for the role
+- and so because of this combination of experience with both backend and front end as well as my ability to integrate them 
+  i think i would make a great fit for the role
 ______________________________________________________________________________________________________________________________________
 9. What's your dream job?
  - the interviewer asks this question because they want to assess your motivation for the job you are applying for
@@ -242,6 +249,7 @@ ________________________________________________________________________________
 STAR
 Setting/Task
 - i like to use trello to organize projects and prioritize things
+- talk about trello a bit explain it
 Action
 -- i can break tasks down into smaller tasks and get a better feel for what needs to be a priority
 - 
