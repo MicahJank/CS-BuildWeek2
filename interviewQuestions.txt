@@ -135,7 +135,7 @@ Action
   intergrated with my front end react app
 Result
 - and so because of this combination of experience with both backend and front end as well as my ability to integrate them 
-  i think i would make a great fit for the role
+  i think i would make a great fit for the role 
 ______________________________________________________________________________________________________________________________________
 9. What's your dream job?
  - the interviewer asks this question because they want to assess your motivation for the job you are applying for
