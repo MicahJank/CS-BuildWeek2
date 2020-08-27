@@ -8,14 +8,15 @@ STAR
 Setting/Task
 - grew up overseas
 - came to and from the USA occasionally but didnt move permanently until i was about 18
-- got work in manufacturing
 - was always interested in coding/programming but never persued it - figured i needed a formal education to get the job
--
+- got work in manufacturing
+- but got tired of working an unfufilling job
 Action
-- i decided to persue a coding career by going to lambda school
+- i decided to persue a coding career by going to an online school called lambda school
 - really enjoyed my experience
+- 
 Result
-- now i am here, hoping to get the job
+- now i am here, hoping to get into the software engineering workspace
 
 ______________________________________________________________________________________________________________________________________
 
@@ -58,13 +59,14 @@ ________________________________________________________________________________
  - dont mention weaknesses that would make me unfit for the position
  STAR
 Setting/Task
+- WEAKNESS - talk about how i tend to not like change, makes me not motivated to try new technologies, 
 - explain about what a TL at lambda school does, code reviews, help students with their projects
 - STRENGTH - talk about students and other TLs complimenting my patience and ability to work with others well
-- WEAKNESS - talk about how i tend to not like change, makes me not motivated to try new technologies, 
+- also been told i have a lot of stick to itivness i dont like having an unsolved problem
 Action
-- WEAKENSS - working on this by taking courses on other frameworks and technologies
+- WEAKENSS - trying to expand my horizions by taking courses on other frameworks and technologies
 Result
-- 
+- studying a course currently on how to implement graphql in a backend
 ______________________________________________________________________________________________________________________________________
 
 
