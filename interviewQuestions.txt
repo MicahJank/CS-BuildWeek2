@@ -18,6 +18,8 @@ Result
 - now i am here, hoping to get the job
 
 ______________________________________________________________________________________________________________________________________
+
+
 2. What kind of work environment are you looking for in the next opportunity you take?
  - the goal of this question is so the interviewer can see if you are a good fit for the company
  - the key to this question is to try to find out WHAT kind of environment the company would have and play that up in your answer
@@ -39,6 +41,8 @@ Result
 constantly would be ideal for me
  
 ______________________________________________________________________________________________________________________________________
+
+
 3. What are your strengths and weaknesses as a developer?
  - with this question the interviewer is looking for honest, self-awareness and the ability to learn from mistakes
  - dont say things like "im a perfectionist" or other cliched answers
@@ -62,6 +66,8 @@ Action
 Result
 - 
 ______________________________________________________________________________________________________________________________________
+
+
 4. Tell me about a group project that you are passionate about?
  - 
  STAR
@@ -72,6 +78,8 @@ Action
 Result
 
 ______________________________________________________________________________________________________________________________________
+
+
 5. Where do you see yourself in 3-5 years?
  - this question is asked because because the interviewer wants to know if your career goals align with the company's
  - even if i plan on leaving quickly i should keep that information to myself
@@ -87,6 +95,8 @@ Action
 Result
 
 ______________________________________________________________________________________________________________________________________
+
+
 6. How would your co-workers describe you?
  - this question is asked to get a sense of how you view yourself, to compare your self assessment to how your references describe you, 
    and to see how good your soft skills are
@@ -104,6 +114,8 @@ Result
 - 
 
 ______________________________________________________________________________________________________________________________________
+
+
 7. Tell me about a time where you and your teammates did not agree?
  -
  STAR
@@ -114,6 +126,8 @@ Action
 Result
 
 ______________________________________________________________________________________________________________________________________
+
+
 8. Why should we hire you?
  - what this question actually means is "why are you the best fit for this position?"
  - my answer needs to be concise and sales pitchy
@@ -136,7 +150,11 @@ Action
 Result
 - and so because of this combination of experience with both backend and front end as well as my ability to integrate them 
   i think i would make a great fit for the role 
+
+
 ______________________________________________________________________________________________________________________________________
+
+
 9. What's your dream job?
  - the interviewer asks this question because they want to assess your motivation for the job you are applying for
  - i should try to reference at least some elements of the job at hand
@@ -151,6 +169,8 @@ Action
 Result
 
 ______________________________________________________________________________________________________________________________________
+
+
 10. Can you explain why you changed career paths?
  - the interviewer asks the question because they want to make sure you are looking for a new job and leaving your old one for the right reasons
  - try to pick out things in the job description or aspects of the career as a whole that align with my interests
@@ -164,7 +184,11 @@ Action
 - started learning programming from lambda school and got really into it
 Result
 - now i feel im ready to be a software engineer
+
+
 ______________________________________________________________________________________________________________________________________
+
+
 11. How do you deal with pressure or stressful situations?
  - the interviewer wants to know how i handle job related stress also what i do specifically in stressful situations at work
  - employers want candidates who they know can deal with a wide range of stressful situations
@@ -181,6 +205,8 @@ Action
 Result
 
 ______________________________________________________________________________________________________________________________________
+
+
 12. What would your first 30, 60, or 90 days look like in this role?
  - i should frame it in a way where i want to get experience and learn from fellow colleagues
  - i need to try to be as specific as possible
@@ -196,6 +222,8 @@ Action
 Result
 
 ______________________________________________________________________________________________________________________________________
+
+
 13. What are your salary requirements?
  - 
 STAR
@@ -206,18 +234,24 @@ Action
 Result
 
 ______________________________________________________________________________________________________________________________________
+
+
 14. Give an example of a goal you reached and tell me how you achieved it
  - the interviewer wants to know whether you can achieve goals that you set for yourself
  - i could talk about how i set the goal of doing at least 1 code challenge every day
  - 
 STAR
 Setting/Task
-- 
+- talk about lambda school and how i realized that practicing code challenges every day was a common theme among people who were successful
 Action
--
+- i realized that every day after class i had about a half hour to an hour of free time so i decided to use that time to do code challenges
 Result
+- it helped me to keep me on my toes and keep my programming skills sharp
+
 
 ______________________________________________________________________________________________________________________________________
+
+
 15. Have you ever made a mistake? How did you handle it? 
  - this question is asked to see how i handle challenges
  - my answer needs to be honest but i also should choose to highlight a mistake that is a serious character flaw
@@ -239,6 +273,8 @@ Action
 Result
 
 ______________________________________________________________________________________________________________________________________
+
+
 16. When you worked on multiple projects how did you prioritize?
  - this question is asked to see if i know the difference between urgent and important
  - Explain factors that go into giving priority.
@@ -255,7 +291,11 @@ Action
 - 
 Result
 - basically i like having a way to break my tasks or projects down into smaller more manageable chunks that i can then tackle
+
+
 ______________________________________________________________________________________________________________________________________
+
+
 17. Have you had to convince a team to utilize a tool/language they weren't thrilled about?
 How did you do it?
  - the interviewer wants to know that i can be persuasive
@@ -274,7 +314,11 @@ Action
    you when you want to revert back to an older version if needed.
 Result
 - i was able to convince them by showing them how easy it is to get starting with git commands and now they love it
+
+
 ______________________________________________________________________________________________________________________________________
+
+
 18. Have you ever had a project that had to change drastically while it was in progress?
 Why? How did you do it?
  - the interviewer wants to see how I adapt to changing circumstances/difficulty
@@ -291,7 +335,11 @@ Action
 - after a while realized we didnt really need to use graphql
 Result
 - the agile approach we took to the project helped in deciding this since we were communcating a lot about what was and wasnt working
+
+
 ______________________________________________________________________________________________________________________________________
+
+
 19. Tell me about a major setback you've had. How did you deal with it?
  - Interviewers want to learn how you maintain your composure, attitude, energy, and focus when you aren't successful.
  - talk about during a buildweek i needed to implement a form and authorization from the backend, which i had never done before
@@ -306,7 +354,11 @@ Action
 -- i took the time to look into how to do authorization and spent a few hours looking up and reading info until something
 Result
  - just clicked and i was able to implement it
+
+
 ______________________________________________________________________________________________________________________________________
+
+
 20. Describe the internet to someone who just woke up from a 30-year coma.
  - think of the internet as a giant public library of information that you can access anywhere through your device,
    either a computer or your phone
